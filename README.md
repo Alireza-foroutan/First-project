@@ -10,7 +10,7 @@
 
 - Created - 4/16/2024
 
-- Technologies Used - Html , css 
+- Technologies Used - Html , css  
 
 - Role - Frontend
 
